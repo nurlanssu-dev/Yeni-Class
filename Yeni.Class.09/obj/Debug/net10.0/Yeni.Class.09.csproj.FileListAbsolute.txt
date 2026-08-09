@@ -1,0 +1,4 @@
+C:\Users\Nurlan\source\repos\Yeni\Yeni.Class.09\obj\Debug\net10.0\Yeni.Class.09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nurlan\source\repos\Yeni\Yeni.Class.09\obj\Debug\net10.0\Yeni.Class.09.AssemblyInfoInputs.cache
+C:\Users\Nurlan\source\repos\Yeni\Yeni.Class.09\obj\Debug\net10.0\Yeni.Class.09.AssemblyInfo.cs
+C:\Users\Nurlan\source\repos\Yeni\Yeni.Class.09\obj\Debug\net10.0\Yeni.Class.09.csproj.CoreCompileInputs.cache
