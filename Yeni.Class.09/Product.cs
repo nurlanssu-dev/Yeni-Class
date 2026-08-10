@@ -21,7 +21,7 @@ public class Product
     {
         Console.WriteLine($"Product ID: {Id}");
         Console.WriteLine($"Name: {Name}");
-        Console.WriteLine($"Price: {Price:C}");
+        Console.WriteLine($"Price: {Price} AZN");
         Console.WriteLine($"Stock Quantity: {StockQuantity}");
         Console.WriteLine($"Category: {Category}");
     }

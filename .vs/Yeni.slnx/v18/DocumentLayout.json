@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Nurlan\\source\\repos\\Yeni\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3FB6664D-9479-44EB-B0DE-C6D3857A8605}|Yeni.Class.09\\Yeni.Class.09.csproj|c:\\users\\nurlan\\source\\repos\\yeni\\yeni.class.09\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FB6664D-9479-44EB-B0DE-C6D3857A8605}|Yeni.Class.09\\Yeni.Class.09.csproj|solutionrelative:yeni.class.09\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C48B404-DE0D-F733-2226-A0DC9D61B3A9}|Yeni.Class.09\\Yeni.Class.09.csproj|c:\\users\\nurlan\\source\\repos\\yeni\\yeni.class.09\\ecommerceplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C48B404-DE0D-F733-2226-A0DC9D61B3A9}|Yeni.Class.09\\Yeni.Class.09.csproj|solutionrelative:yeni.class.09\\ecommerceplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FB6664D-9479-44EB-B0DE-C6D3857A8605}|Yeni.Class.09\\Yeni.Class.09.csproj|c:\\users\\nurlan\\source\\repos\\yeni\\yeni.class.09\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FB6664D-9479-44EB-B0DE-C6D3857A8605}|Yeni.Class.09\\Yeni.Class.09.csproj|solutionrelative:yeni.class.09\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C48B404-DE0D-F733-2226-A0DC9D61B3A9}|Yeni.Class.09\\Yeni.Class.09.csproj|c:\\users\\nurlan\\source\\repos\\yeni\\yeni.class.09\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C48B404-DE0D-F733-2226-A0DC9D61B3A9}|Yeni.Class.09\\Yeni.Class.09.csproj|solutionrelative:yeni.class.09\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FB6664D-9479-44EB-B0DE-C6D3857A8605}|Yeni.Class.09\\Yeni.Class.09.csproj|c:\\users\\nurlan\\source\\repos\\yeni\\yeni.class.09\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FB6664D-9479-44EB-B0DE-C6D3857A8605}|Yeni.Class.09\\Yeni.Class.09.csproj|solutionrelative:yeni.class.09\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C48B404-DE0D-F733-2226-A0DC9D61B3A9}|Yeni.Class.09\\Yeni.Class.09.csproj|c:\\users\\nurlan\\source\\repos\\yeni\\yeni.class.09\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C48B404-DE0D-F733-2226-A0DC9D61B3A9}|Yeni.Class.09\\Yeni.Class.09.csproj|solutionrelative:yeni.class.09\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FB6664D-9479-44EB-B0DE-C6D3857A8605}|Yeni.Class.09\\Yeni.Class.09.csproj|c:\\users\\nurlan\\source\\repos\\yeni\\yeni.class.09\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FB6664D-9479-44EB-B0DE-C6D3857A8605}|Yeni.Class.09\\Yeni.Class.09.csproj|solutionrelative:yeni.class.09\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C48B404-DE0D-F733-2226-A0DC9D61B3A9}|Yeni.Class.09\\Yeni.Class.09.csproj|c:\\users\\nurlan\\source\\repos\\yeni\\yeni.class.09\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C48B404-DE0D-F733-2226-A0DC9D61B3A9}|Yeni.Class.09\\Yeni.Class.09.csproj|solutionrelative:yeni.class.09\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FB6664D-9479-44EB-B0DE-C6D3857A8605}|Yeni.Class.09\\Yeni.Class.09.csproj|c:\\users\\nurlan\\source\\repos\\yeni\\yeni.class.09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FB6664D-9479-44EB-B0DE-C6D3857A8605}|Yeni.Class.09\\Yeni.Class.09.csproj|solutionrelative:yeni.class.09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C48B404-DE0D-F733-2226-A0DC9D61B3A9}|Yeni.Class.09\\Yeni.Class.09.csproj|c:\\users\\nurlan\\source\\repos\\yeni\\yeni.class.09\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C48B404-DE0D-F733-2226-A0DC9D61B3A9}|Yeni.Class.09\\Yeni.Class.09.csproj|solutionrelative:yeni.class.09\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C48B404-DE0D-F733-2226-A0DC9D61B3A9}|Yeni.Class.09\\Yeni.Class.09.csproj|c:\\users\\nurlan\\source\\repos\\yeni\\yeni.class.09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C48B404-DE0D-F733-2226-A0DC9D61B3A9}|Yeni.Class.09\\Yeni.Class.09.csproj|solutionrelative:yeni.class.09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,63 +34,74 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "EcommercePlatform.cs",
+              "DocumentMoniker": "C:\\Users\\Nurlan\\source\\repos\\Yeni\\Yeni.Class.09\\EcommercePlatform.cs",
+              "RelativeDocumentMoniker": "Yeni.Class.09\\EcommercePlatform.cs",
+              "ToolTip": "C:\\Users\\Nurlan\\source\\repos\\Yeni\\Yeni.Class.09\\EcommercePlatform.cs",
+              "RelativeToolTip": "Yeni.Class.09\\EcommercePlatform.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T06:14:07.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Nurlan\\source\\repos\\Yeni\\Yeni.Class.09\\User.cs",
               "RelativeDocumentMoniker": "Yeni.Class.09\\User.cs",
               "ToolTip": "C:\\Users\\Nurlan\\source\\repos\\Yeni\\Yeni.Class.09\\User.cs",
               "RelativeToolTip": "Yeni.Class.09\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-09T11:19:26.075Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Cart.cs",
               "DocumentMoniker": "C:\\Users\\Nurlan\\source\\repos\\Yeni\\Yeni.Class.09\\Cart.cs",
               "RelativeDocumentMoniker": "Yeni.Class.09\\Cart.cs",
               "ToolTip": "C:\\Users\\Nurlan\\source\\repos\\Yeni\\Yeni.Class.09\\Cart.cs",
               "RelativeToolTip": "Yeni.Class.09\\Cart.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-09T06:51:16.083Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-09T06:51:16.083Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "CartItem.cs",
               "DocumentMoniker": "C:\\Users\\Nurlan\\source\\repos\\Yeni\\Yeni.Class.09\\CartItem.cs",
               "RelativeDocumentMoniker": "Yeni.Class.09\\CartItem.cs",
               "ToolTip": "C:\\Users\\Nurlan\\source\\repos\\Yeni\\Yeni.Class.09\\CartItem.cs",
               "RelativeToolTip": "Yeni.Class.09\\CartItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-09T06:45:33.168Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-09T06:45:33.168Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Nurlan\\source\\repos\\Yeni\\Yeni.Class.09\\Product.cs",
               "RelativeDocumentMoniker": "Yeni.Class.09\\Product.cs",
               "ToolTip": "C:\\Users\\Nurlan\\source\\repos\\Yeni\\Yeni.Class.09\\Product.cs",
               "RelativeToolTip": "Yeni.Class.09\\Product.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwBMAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAzwA4AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-09T06:23:52.364Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Nurlan\\source\\repos\\Yeni\\Yeni.Class.09\\Program.cs",
               "RelativeDocumentMoniker": "Yeni.Class.09\\Program.cs",
@@ -94,8 +109,7 @@
               "RelativeToolTip": "Yeni.Class.09\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-09T06:22:18.578Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-09T06:22:18.578Z"
             }
           ]
         }

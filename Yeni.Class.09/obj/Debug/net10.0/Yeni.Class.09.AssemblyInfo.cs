@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Yeni.Class.09")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51bff7b203165da002f01398ce12ca6639137afb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Yeni.Class.09")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Yeni.Class.09")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

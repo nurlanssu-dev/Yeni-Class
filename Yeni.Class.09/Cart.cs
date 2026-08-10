@@ -44,6 +44,7 @@ public class Cart
 
                 }
                 ItemCount--;
+                Items[ItemCount] = null;
                 break;
             }
         }
@@ -80,6 +81,11 @@ public class Cart
     }
     public void ClearCart()
     {
+        for (int i = 0; i < ItemCount; i++)
+        {
+            Items[i] = null;
+        }
+
         ItemCount = 0;
     }
 }
